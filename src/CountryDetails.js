@@ -18,9 +18,9 @@ export const CountryDetails = (props) => {
                     <div id="propriedades">
                         <div className="curiosidades">
                             <p>Native Name: <span>{props.country?.nativeName}</span></p>
-                            <p>População: <span>{props.country?.population}</span></p>
-                            <p>Região:<span> {props.country?.region}</span></p>
-                            <p>Sub Região:<span> {props.country?.subregion}</span></p>
+                            <p>Population: <span>{props.country?.population}</span></p>
+                            <p>Region:<span> {props.country?.region}</span></p>
+                            <p>Sub Region:<span> {props.country?.subregion}</span></p>
                             <p>Capital: <span>{props.country?.capital}</span></p>
                         </div>
                         <div className="curiosidades">
@@ -44,9 +44,9 @@ export const CountryDetails = (props) => {
                     <div id="propriedades">
                         <div className="curiosidades">
                             <p>Native Name: <span>{props.country?.nativeName}</span></p>
-                            <p>População: <span>{props.country?.population}</span></p>
-                            <p>Região:<span> {props.country?.region}</span></p>
-                            <p>Sub Região:<span> {props.country?.subregion}</span></p>
+                            <p>Population: <span>{props.country?.population}</span></p>
+                            <p>Region:<span> {props.country?.region}</span></p>
+                            <p>Sub Region:<span> {props.country?.subregion}</span></p>
                             <p>Capital: <span>{props.country?.capital}</span></p>
                         </div>
                         <div className="curiosidades">

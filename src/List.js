@@ -102,8 +102,8 @@ export const List = (props) => {
                             </div>
                             <div id="informacao">
                                 <h1>{pais?.name}</h1>
-                                <p>População: <span>{pais?.population}</span></p>
-                                <p>Região:<span> {pais?.region}</span></p>
+                                <p>Population: <span>{pais?.population}</span></p>
+                                <p>Region:<span> {pais?.region}</span></p>
                                 <p>Capital: <span>{pais?.capital}</span></p>
                             </div>
                         </BoxLight>
@@ -159,8 +159,8 @@ export const List = (props) => {
                             </div>
                             <div id="informacao">
                                 <h1>{pais?.name}</h1>
-                                <p>População: <span>{pais?.population}</span></p>
-                                <p>Região:<span> {pais?.region}</span></p>
+                                <p>Population: <span>{pais?.population}</span></p>
+                                <p>Region:<span> {pais?.region}</span></p>
                                 <p>Capital: <span>{pais?.capital}</span></p>
                             </div>
                         </BoxDark>
